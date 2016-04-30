@@ -1,0 +1,11 @@
+# temp files
+*~
+*.swp
+*.ipr
+*.iws
+
+# IntelliJ Idea files
+.idea/
+*.iml
+
+
